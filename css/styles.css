@@ -1,0 +1,46 @@
+body {
+    /* background-image: url("../img/hamm.png"); */
+    background-color: #2F5363;
+    /* background-size: 150vh; */
+    background-attachment: fixed;
+}
+
+/* h2 {
+    background-image: url("../img/hamm.png");
+    background-color: #2F5363;
+    background-size: 50%
+    background-attachment: fixed;
+
+} */
+
+.time {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+}
+
+#message {
+    width: 50%;
+}
+
+h4 {
+    width: 400px;
+}
+
+.background {
+    background: rgba(211, 211, 211, 0.3)
+}
+
+.btn_color {
+    /* color: orangered; */
+}
+
+p {
+    color: #84B4C0;
+}
+
+h1, h2, h3, h4 {
+    color: #EAF8F9;
+}
+
+ 
